@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# Ignored third party stuff
+sA_IceSkillPack2/
+MagicSpells/
+VFXASandbox/
