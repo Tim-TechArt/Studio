@@ -7,6 +7,7 @@ My little VFX Studio
 
 * Move: WASD
 * Look: Mouse
+* Attack: Left Mouse Button
 * Run: Shift
 * Jump: Space Bar
 
@@ -15,6 +16,6 @@ My little VFX Studio
 
 * Move: Left Stick
 * Look: Right Stick
-* Attack : A
+* Attack: A
 * Run: X
 * Jump: B
