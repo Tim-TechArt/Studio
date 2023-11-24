@@ -15,5 +15,6 @@ My little VFX Studio
 
 * Move: Left Stick
 * Look: Right Stick
-* Run: A
+* Attack : A
+* Run: X
 * Jump: B
