@@ -8,6 +8,7 @@ My little VFX Studio
 Move: WASD
 Look: Mouse
 Run: Shift
+Jump: Space Bar
 
 
 ### GamePad
