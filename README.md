@@ -5,15 +5,15 @@ My little VFX Studio
 
 ### Keyboard + Mouse
 
-Move: WASD
-Look: Mouse
-Run: Shift
-Jump: Space Bar
+* Move: WASD
+* Look: Mouse
+* Run: Shift
+* Jump: Space Bar
 
 
 ### GamePad
 
-Move: Left Stick
-Look: Right Stick
-Run: A
-Jump: B
+* Move: Left Stick
+* Look: Right Stick
+* Run: A
+* Jump: B
