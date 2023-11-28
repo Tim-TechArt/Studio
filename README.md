@@ -13,6 +13,9 @@ This will end up with an attack effect that will be triggered in-game.
 ### Currently working on:
 * Animation montage so I can stitch together animations for an attack effect.
 
+### Needs more work
+* Jumping animation is wacked 
+
 ### Documented progress
 _This will work as a journal of my progress._
 
