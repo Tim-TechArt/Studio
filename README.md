@@ -6,7 +6,7 @@ However, I'm not a 3D modeler nor an animator, so for these parts, I will use fr
 At some point, I'll also be shifting parts of the Blueprint logic into C++ to gain a deeper understanding of how this aspect operates. <br> 
 I'm doing this project in my spare time so it will probably be a bit slow :) <br>
 <br> 
-This will end up with an attack effect that will be triggered in-game.
+This will _hopefully_ end up with an attack effect that will be triggered in-game.
 
 ## Progress
 
