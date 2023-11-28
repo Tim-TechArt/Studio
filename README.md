@@ -37,6 +37,7 @@ _This will work as a journal of my progress._
 * Added support for gamepad
 
 #### VFX
+_Gif's will arrive later on_
 * Tinkered with _material functions_ for varius Chromatic Aberration effects
 * Made _material function_ for doing _Iridescence_
 * Made _Snow_ materia with sparkling sparks
