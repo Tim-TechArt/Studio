@@ -5,7 +5,7 @@ This project is set up from a blank template. I'm building everything from the g
 However, I'm not a 3D modeler nor an animator, so for these parts, I will use free assets.
 
 ## Currently working on:
-Animation montage so I can stitch together animations for an attack effect.
+* Animation montage so I can stitch together animations for an attack effect.
 
 
 ## Controllers
