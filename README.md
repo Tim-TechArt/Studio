@@ -26,9 +26,9 @@ _This will work as a journal of my progress._
 #### BP_Player
 * Initialization of Enhanced Input-mapping
 * Logic for Enhanced Input-mapping
-* Player mesh
+* Added Player mesh
 * Spring arm with attached camera
-* Some logic to make it work better with third-person view
+* Some camera logic to make it work better with third-person view
 * Made running speed analog when using gamepad left trigger
 
 #### Setup Enhanced Input-mapping
@@ -40,7 +40,7 @@ _This will work as a journal of my progress._
 _Gif's will arrive later on_
 * Tinkered with _material functions_ for varius Chromatic Aberration effects
 * Made _material function_ for doing _Iridescence_
-* Made _Snow_ materia with sparkling sparks
+* Made _Snow_ material with sparkling sparks
 * Tons of other bits and pieces I hopefully will have use for later on :D
 
 
