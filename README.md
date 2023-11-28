@@ -44,7 +44,7 @@ _Gif's will arrive later on_
 * Tinkered with _material functions_ for varius Chromatic Aberration effects
 * Made _material function_ for doing _Iridescence_
 * Made _Snow_ material with sparkling sparks
-  ** Packed normals, AO and roughness in same texture
+  - Packed normals, AO and roughness in same texture
 * Tons of other bits and pieces I hopefully will have use for later on :D
 
 
