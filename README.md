@@ -1,7 +1,7 @@
 # Studio
 _My little Tech-Art VFX Studio_
 ## Introduction
-This project is set up from a blank template. I'm building everything from the ground up to understand every aspect of how a game works in Unreal Engine 5.<br> 
+This project is set up from a blank template. I'm building everything from the ground up to better understand every aspect of how a game works in Unreal Engine 5.<br> 
 However, I'm not a 3D modeler nor an animator, so for these parts, I will use free assets.<br> 
 At some point, I'll also be shifting parts of the Blueprint logic into C++ to gain a deeper understanding of how this aspect operates. <br> 
 I'm doing this project in my spare time so it will probably be a bit slow :) <br>
