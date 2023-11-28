@@ -17,10 +17,10 @@ This will end up with an attack effect that will be triggered in-game.
 _This will work as a journal of my progress._
 
 #### Animation Blueprint
-* Setup basic Ground Locomotion
-* Added Blend space for running/walking in different directions 
-* Setup basic Jump Locomotion
-* Added "Default Slot" so Animation Montages will work
+* Setup basic _Ground Locomotion_
+* Added _Blend space_ for running/walking in different directions 
+* Setup basic _Jump Locomotion_
+* Added _Default Slot_ so Animation Montages will work
 * Added _Layered blend per bone_ for slot "Upper Body" 
 
 #### BP_Player
