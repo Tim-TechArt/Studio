@@ -12,6 +12,7 @@ This will _hopefully_ end up with an attack effect that will be triggered in-gam
 
 ### Currently working on:
 * Animation montage so I can stitch together animations for an attack effect.
+* Moving animation BP stuff to threded instances for optimization 
 
 ### Needs more work
 * Jumping animation is wacked 
