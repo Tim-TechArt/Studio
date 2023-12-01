@@ -12,8 +12,7 @@ This will _hopefully_ end up with an attack effect that will be triggered in-gam
 ## Progress
 
 ### Currently working on:
-* Moving animation BP logic to thread safe instances for optimization
-* Moving animation BP to Linked Anim Layers
+
 * Animation montage so I can stitch together animations for an attack effect.
 
 
@@ -24,6 +23,8 @@ This will _hopefully_ end up with an attack effect that will be triggered in-gam
 _This will work as a journal of my progress._
 
 #### Animation Blueprint
+* Moved animation BP logic to thread safe instances for optimization
+* Moved ground locomotion to own animation BP and Linked in main ABP
 * Setup basic _Ground Locomotion_
 * Added _Blend space_ for running/walking in different directions 
 * Setup basic _Jump Locomotion_
