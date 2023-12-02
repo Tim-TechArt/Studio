@@ -12,7 +12,7 @@ This will _hopefully_ end up with an attack effect that will be triggered in-gam
 ## Progress
 
 ### Currently working on:
-
+* New open world map to practice sculpting and look at how world partitioning works.
 * Animation montage so I can stitch together animations for an attack effect.
 
 
