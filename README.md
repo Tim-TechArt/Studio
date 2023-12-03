@@ -12,7 +12,7 @@ This will _hopefully_ end up with an attack effect that will be triggered in-gam
 ## Progress
 
 ### Currently working on:
-* New open world map to practice sculpting and look at how world partitioning works.
+* Landscape material optimization + juice
 * Animation montage so I can stitch together animations for an attack effect.
 
 
@@ -21,6 +21,11 @@ This will _hopefully_ end up with an attack effect that will be triggered in-gam
 
 ### Documented progress
 _This will work as a journal of my progress._
+
+#### Landscape
+* New Landscape sculpted, first and second pass done
+* Setup of material pipeline for landscape material with channel packing and so on
+
 
 #### Animation Blueprint
 * Moved animation BP logic to thread safe instances for optimization
