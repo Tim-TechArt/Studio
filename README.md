@@ -12,6 +12,7 @@ This will _hopefully_ end up with an attack effect that will be triggered in-gam
 ## Progress
 
 ### Currently working on:
+* Planning and prototyping new VFX
 * Landscape material optimization + juice
 * Animation montage so I can stitch together animations for an attack effect.
 
