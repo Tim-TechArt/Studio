@@ -33,6 +33,10 @@
 		{
 			"Name": "CineCameraRigs",
 			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
 		}
 	]
 }
